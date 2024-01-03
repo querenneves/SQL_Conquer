@@ -1,3 +1,3 @@
 <div>
-  <img src="image.jpg" alt="relacionamentos_tabelas.png">
+  <img src="relacionamentos_tabelas.png" alt="relacionamentos_tabelas">
 </div>
